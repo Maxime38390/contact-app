@@ -1,0 +1,6 @@
+/contact-app/node_modules/
+/contact-app/backend/node_modules/
+/contact-app/frontend/node_modules/
+/contact-app/backend/contacts.json  # Si vous ne voulez pas que vos données soient suivies par git
+.DS_Store
+.env
